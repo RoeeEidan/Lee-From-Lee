@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 // 	console.log("Connected to db at /data/db/")
 // });
 
-const PORT = process.env.PORT || 3032;
+const PORT = process.env.PORT || 80;
 
 // app.use(express.static(__dirname + '/build'));
 
